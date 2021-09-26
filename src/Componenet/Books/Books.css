@@ -1,0 +1,18 @@
+.books-container{
+display: grid;
+grid-template-columns: 3fr 1fr;
+margin-left: 50px;
+}
+.books-de{
+ 
+border-right: 1px solid lightblue;
+margin-right: 5px;
+}
+.grid{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.books-cart{
+    margin: 10px;
+    padding: 10px;
+}

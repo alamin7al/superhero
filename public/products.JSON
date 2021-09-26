@@ -1,0 +1,98 @@
+[
+    {
+      "id": 1,
+      "name": "A Swim in a Pond in the Rain",
+      "writer": "George Saunders",
+      "price": 28,
+      "img": "https://i.ibb.co/X5g1ykr/9780307473196.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Writing Better Lyrics",
+      "writer": "Pat Pattison",
+      "price": 98,
+
+      "img": "https://i.ibb.co/Q98y8r4/9781400032600.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Living with a Dead Language",
+      "writer": "Ann Patty",
+      "price": 78,
+
+      "img": "https://i.ibb.co/S7dHfbR/9781594484834.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Bird by Bird",
+      "writer": "Anne Lamott",
+      "price": 190,
+
+      "img": "https://i.ibb.co/1bz5m9v/9780525432753.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Who Is I",
+      "writer": "P atricia T.O’Conner",
+      "price": 328,
+
+      "img": "https://i.ibb.co/Cs7S221/9780525533054.jpg.jpg"
+    },
+    {
+      "id": 6,
+      "name": "The Clothing of Books",
+      "writer": "Jhumpa Lahiri",
+      "price": 128,
+
+      "img": "https://i.ibb.co/6vRWVSY/9780385480017.jpg"
+    },
+    {
+      "id": 7,
+      "name": "The Forest for the Trees (Revised and Updated)",
+      "writer": "Betsy Lerner",
+      "price": 94,
+
+      "img": "https://i.ibb.co/kcdNd3g/9781101980231.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Negotiating with the Dead",
+      "writer": "Margaret Atwood",
+      "price": 37,
+
+      "img": "https://i.ibb.co/vvCJNBj/9781582975771.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Willa Cather On Writing",
+      "writer": "Willa Cather",
+      "price": 37,
+
+      "img": "https://i.ibb.co/4MW3PwQ/9780307831477.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Dreyer english",
+      "writer": "Benjamin Dreyer",
+      "price": 37,
+
+      "img": "https://i.ibb.co/k0SW36x/9780812985719.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Letters to a Young Writer",
+      "writer": "Colum McCann",
+      "price": 37,
+
+      "img": "https://i.ibb.co/xCBxRf3/9780399590801.jpg"
+    },
+    
+    {
+      "id": 13,
+      "name": "Eats Shoots Leavs",
+      "writer": "W.Somerset Maugham",
+      "price": 35,
+
+      "img": "https://i.ibb.co/5h3Z869/9781592402038.jpg"
+    }
+  ]
